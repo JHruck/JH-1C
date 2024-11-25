@@ -32,7 +32,7 @@ h1{
 }
 .categoria-videos{
     display: flex;
-    overflow: auto;
+    overflow-x: auto;
     gap: 20px;
 }
 .categoria-videos img{
